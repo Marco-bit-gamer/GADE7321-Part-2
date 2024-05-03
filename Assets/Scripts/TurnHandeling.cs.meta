@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8c002e3792d361b4abee8d077a79f043
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Message: {instanceID: 0}
+  - PrefabEnemySword: {fileID: 3796583648830073172, guid: 5d7fa4e1500ebab4d995471283b0b4a2, type: 3}
+  - PrefabPlayerSword: {fileID: 5414668925887985697, guid: 06fe729ee8edcfe42b1fc7a497f6b88b, type: 3}
+  - PrefabEnemyBow: {fileID: 8963719807910526947, guid: 84a73d2215ec2264692401d1b1a2cf4e, type: 3}
+  - PrefabPlayerBow: {fileID: 7351227634798310956, guid: 2aeb894db0860e044b4208d48235b104, type: 3}
+  - PrefabEnemyShield: {fileID: 982100062172914534, guid: b81ae4370caf24346bf732cb87d0c3f2, type: 3}
+  - PrefabPlayerShield: {fileID: 8339578967432394187, guid: 838c6a4c857399941972fd524b0871c3, type: 3}
+  - PrefabEmpty: {fileID: 8620560040191480192, guid: b1fc830e8fa132b45b7aecbf7ad04bc1, type: 3}
+  - PlayerAttackObject: {instanceID: 0}
+  - EnemyAttackObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
